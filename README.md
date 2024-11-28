@@ -8,7 +8,7 @@ Armed with HTML, CSS and a bucketload of enthusiasm, I'm on a mission to create 
 - **Puzzle Master:** From logic puzzles to crosswords, and even escape rooms, if it challenges my brain, I'm hooked. Oh, and I can solve a Rubik's cube in under 2 minutes- no big deal.
 - **My Secret Power:** Turning complex ideas into clean, functional code( while enjoying the occassional "Eureka!" moment).
 - **Biggest Challenge:** Balancing simplicity with creativity- because sometimes less *is* more, but other times, more is *just enough*.
-- **What Gets Me Excited:* Watching a design come to life on the browser, much like the moment the last piece of a puzzle clicks into place- it's pure magic.
+- **What Gets Me Excited:** Watching a design come to life on the browser, much like the moment the last piece of a puzzle clicks into place- it's pure magic.
 
 ## 🚀What I'm Working On
 - **E-commerce Layouts:** Experimenting with grid-based carousels and interactive text overlays. It's all about making pages sleek and user-friendly.

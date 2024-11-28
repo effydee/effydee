@@ -5,7 +5,7 @@ Armed with HTML, CSS and a bucketload of enthusiasm, I'm on a mission to create 
 
 ##⭐A Little About Me
 - **Why I code:** For me, coding feels like solving a giant, ever-changing puzzle. Each line of code is a step closer to cracking the solution.
-- **Puzzle Master:** From logic puzzles to crosswords, and even escapr rooms, if it challengesmy brain, I'm hooke. Oh, and I can solve a Rubik's cube in under 2 minutes- no big deal.
+- **Puzzle Master:** From logic puzzles to crosswords, and even escape rooms, if it challenges my brain, I'm hooked. Oh, and I can solve a Rubik's cube in under 2 minutes- no big deal.
 - **My Secret Power:** Turning complex ideas into clean, functional code( while enjoying the occassional "Eureka!" moment).
 - **Biggest Challenge:** Balancing simplicity with creativity- because sometimes less *is* more, but other times, more is *just enough*.
 - **What Gets Me Excited:* Watching a design come to life on the browser, much like the moment the last piece of a puzzle clicks into place- it's pure magic.
@@ -32,7 +32,7 @@ I'll be honest- I'm just starting out, and there's SO much to learn. If you've g
 If you've got a project, a suggestion, or want to nerd out about HTML and CSS, drop me a message. I'd love to connect, learn and maybe even collaborate.
 **Email:** creating.minerva@gmail.com
 
-Together, we can turn "just starting out" into "making waves"!
+Together, we can turn "just starting out" into "making waves"! 🌊
 
 
 
